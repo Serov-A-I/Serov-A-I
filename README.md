@@ -30,4 +30,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="60" height="60"/>&nbsp;
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=SerovA.I&stroke=RED)
+![Codewars](https://github.r2v.ch/codewars?user=SerovA.I&stroke=%23BB432C)
