@@ -29,3 +29,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="60" height="60"/>&nbsp;
 </div>
+
+![Codewars](https://github.r2v.ch/codewars?user=SerovA.I&stroke=RED)
